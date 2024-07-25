@@ -18,4 +18,5 @@ The Course is about Algorithms & Problem-Solving Level 1 Solutions with C++.
 
 ## `Certificate`
 
-file:///C:/Users/Home/Downloads/certificate-of-completion-for-algorithms-problem-solving-level-1-solutions.pdf
+![image](https://github.com/user-attachments/assets/4bc23be9-9b5f-4310-ad25-eb659e2b9db8)
+
