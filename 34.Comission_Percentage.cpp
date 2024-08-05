@@ -42,3 +42,4 @@ int main()
     cout << "Comission Percentage is: " << GetComissionPercentage(TotalSales) << endl;;
     cout << "Total Comission is: " << CalculateTotalComission(TotalSales) << endl;;
 }
+
